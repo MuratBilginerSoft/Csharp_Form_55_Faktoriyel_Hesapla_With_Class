@@ -1,0 +1,15 @@
+c:\users\murat\documents\visual studio 2010\Projects\Faktöriyel Hesapla SınıfKavramı\Faktöriyel Hesapla SınıfKavramı\bin\Debug\Faktöriyel Hesapla SınıfKavramı.exe
+c:\users\murat\documents\visual studio 2010\Projects\Faktöriyel Hesapla SınıfKavramı\Faktöriyel Hesapla SınıfKavramı\bin\Debug\Faktöriyel Hesapla SınıfKavramı.pdb
+c:\users\murat\documents\visual studio 2010\Projects\Faktöriyel Hesapla SınıfKavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel_Hesapla_SınıfKavramı.Form1.resources
+c:\users\murat\documents\visual studio 2010\Projects\Faktöriyel Hesapla SınıfKavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel_Hesapla_SınıfKavramı.Properties.Resources.resources
+c:\users\murat\documents\visual studio 2010\Projects\Faktöriyel Hesapla SınıfKavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel Hesapla SınıfKavramı.csproj.GenerateResource.Cache
+c:\users\murat\documents\visual studio 2010\Projects\Faktöriyel Hesapla SınıfKavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel Hesapla SınıfKavramı.exe
+c:\users\murat\documents\visual studio 2010\Projects\Faktöriyel Hesapla SınıfKavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel Hesapla SınıfKavramı.pdb
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel Hesapla SınıfKavramı.exe
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel Hesapla SınıfKavramı.pdb
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\bin\Debug\Faktöriyel Hesapla SınıfKavramı.exe
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\bin\Debug\Faktöriyel Hesapla SınıfKavramı.pdb
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel Hesapla SınıfKavramı.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel_Hesapla_SınıfKavramı.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel_Hesapla_SınıfKavramı.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\20 Faktöriyel Hesapla Sınıfkavramı\Faktöriyel Hesapla SınıfKavramı\obj\x86\Debug\Faktöriyel Hesapla SınıfKavramı.csproj.GenerateResource.Cache
